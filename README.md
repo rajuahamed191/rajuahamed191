@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJU</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
+<img align="right" alt="coding"width="500" src="https://giffiles.alphacoders.com/119/119839.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajuahamed191&label=Profile%20views&color=0e75b6&style=flat" alt="rajuahamed191" /> </p>
 
